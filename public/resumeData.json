@@ -1,0 +1,213 @@
+{
+  "main": {
+    "name":"Resalat Amin",
+    "occupation":"Web developer, programmer and designer",
+    "description":"I can design and program websites and web applications. In addition, I teach people how to design a website.",
+    "image":"profilepic.jpg",
+    "bio":"A recent graduate from North South University. Looking for a IT job to secure my position. I am very hard-working. I can able to handle multiple tasks on a daily basis. In addition, I use creative approach to problem solve. My eventual career goal is to assume responsibility for the analysis and implementation and actively contribute to the overall success of any IT job I work for.",
+    "email": "resalatamin@gmail.com",
+    "phone": "01622926088",
+    "address":{
+      "street":"Rampura, Banasree",
+      "city":"Dhaka",
+      "state":"Bangladesh",
+      "zip": "1219"
+    },
+    "website": "http://www.techguywebsolutions.com",
+    "resumedownload":"http://something.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/risalat.rafee",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/resalat123",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/resalatamin",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"North South University",
+        "degree":"Bachelors of Science in Computer Science & Engineering",
+        "graduated":"OCT 2019",
+        "description":"From my academy I have learnt lots of things such as how to work in a critical situation. How to handle critical stuffs. I have learnt various types of computer languages like c, c++, java, sql. Moreover, I have learnt many algorithms and many more"
+      },
+      {
+        "school":"Dhaka College",
+        "degree":"Higher Secondary Certificate ",
+        "graduated":"2014",
+        "description":"From 2012 to 2014 I was in college. I have studied different types of subjects such as Physics, Chemistry, Mathematics and many more "
+      },
+      {
+        "school":"Motijheel Govt Boys’ High School",
+        "degree":"Secondary School Certificate",
+        "graduated":"2012",
+        "description":"I have gained some pure friends from my school life. It was actually the best time ever in my life."
+      }
+    ],
+    "work":[
+      {
+        "company":"Capstone Project at NSU",
+        "title":"Researcher and Developer",
+        "years":"Jan 2019 - Present",
+        "description":"Basically I and my team are working on to reduce the air pollution of Dhaka city. The research work is still on process."
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"90%"
+      },
+      {
+        "name":"Vanila JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"React JS",
+        "level":"20%"
+      },
+      {
+        "name":"C/C++",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"MS WORD",
+        "level":"90%"
+      },
+      {
+        "name":"Excel",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Coffee Cup",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustrator",
+        "tags":"Branding, Web Design",
+        "image":"coffee.jpg",
+        "url":"http://port1.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Console",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Design",
+        "tags":"Branding, Web Development",
+        "image":"console.jpg",
+        "url":"http://port2.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Judah",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"judah.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Into The Light",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Design",
+        "image":"into-the-light.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Farmer Boy",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Branding",
+        "tags":"Branding, Web Design",
+        "image":"farmerboy.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Girl",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Graphic Design",
+        "image":"girl.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Origami",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustration",
+        "tags":"Branding, Illustration",
+        "image":"origami.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Retrocam",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Photography",
+        "image":"retrocam.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"He is very dedicated and hard-working",
+        "user":"Dr. Shahnewaz Siddique"
+      },
+      {
+        "text":"He is able to work in a critical situation",
+        "user":"Dr. Sazzad Hossain"
+      }
+    ]
+  }
+}
